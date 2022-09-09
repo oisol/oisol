@@ -1,13 +1,4 @@
 <h1 align="center">Matheus Rocha</h1>
-<p align="center">
-    <a href="mailto:matheusrocha.dev01@gmail.com">
-        <img src="./img/gmail.png">
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/matheus-rocha-201263184/">
-        <img src="./img/linkedin.png">
-    </a>
-</p>
 
 <h2 align="center">🔧 Skills</h2>
 <p align="center">
@@ -27,11 +18,21 @@
 - 🌎 Sou de Fortaleza, CE
 - 📚 Estou estudando web development (front e back)
 - 📝 Concluí uma graduação de ADS em 2022
- 
+ <br>
 - ⚡ Fun facts:
 - Meu primeiro contato com códigos foi usando HTML para um blog pessoal em 2011
 - Fazia alguns joguinhos com Scratch
 - Sempre quis atuar em áreas de tecnologia
+<br>
+<p align="center">
+    <a href="mailto:matheusrocha.dev01@gmail.com">
+        <img src="./img/gmail.png">
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/matheus-rocha-201263184/">
+        <img src="./img/linkedin.png">
+    </a>
+</p>
  
 <!--
 **oisol/oisol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
