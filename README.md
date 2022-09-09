@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/matheus-rocha-201263184/">
         <img src="./img/linkedin.png">
     </a>
-</p><br>
+</p>
 
 <h2 align="center">🔧 Skills</h2>
 <p align="center">
@@ -16,17 +16,18 @@
 
 <h2 align="center">📊 Stats</h2>
 <div align="center">
-    <img height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oisol&layout=compact&theme=cobalt">
-    <img height="190px" src="https://github-readme-stats.vercel.app/api?username=oisol&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true">
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oisol&layout=compact&theme=cobalt">
+    <img height="160px" src="https://github-readme-stats.vercel.app/api?username=oisol&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true">
 </div>
 <hr><br>
 
 # Olá, bem vindo ao meu GitHub! 👨🏻‍💻
 <h3>Um pouco sobre mim</h3>
+
 - 🌎 Sou de Fortaleza, CE
 - 📚 Estou estudando web development (front e back)
 - 📝 Concluí uma graduação de ADS em 2022
-  
+ 
 - ⚡ Fun facts:
 - Meu primeiro contato com códigos foi usando HTML para um blog pessoal em 2011
 - Fazia alguns joguinhos com Scratch
