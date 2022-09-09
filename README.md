@@ -10,7 +10,7 @@
     <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oisol&layout=compact&theme=cobalt">
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=oisol&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true">
 </div>
-<hr><br>
+<br>
 
 # Olá, bem vindo ao meu GitHub! 👨🏻‍💻
 <h3>Um pouco sobre mim</h3>
@@ -19,10 +19,12 @@
 - 📚 Estou estudando web development (front e back)
 - 📝 Concluí uma graduação de ADS em 2022
  <br>
+ 
 - ⚡ Fun facts:
 - Meu primeiro contato com códigos foi usando HTML para um blog pessoal em 2011
 - Fazia alguns joguinhos com Scratch
 - Sempre quis atuar em áreas de tecnologia
+
 <br>
 <p align="center">
     <a href="mailto:matheusrocha.dev01@gmail.com">
