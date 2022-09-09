@@ -7,8 +7,7 @@
     <a href="https://www.linkedin.com/in/matheus-rocha-201263184/">
         <img src="./img/linkedin.png">
     </a>
-</p>
-<hr><br>
+</p><br>
 
 <h2 align="center">🔧 Skills</h2>
 <p align="center">
