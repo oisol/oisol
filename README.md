@@ -31,7 +31,7 @@
         <img src="./img/gmail.png">
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/matheus-rocha-201263184/">
+    <a href="www.linkedin.com/in/matheus-rocha-dev">
         <img src="./img/linkedin.png">
     </a>
 </p>
